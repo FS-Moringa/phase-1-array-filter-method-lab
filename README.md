@@ -39,3 +39,4 @@ You'll be writing three functions:
 ## Resources
 
 * [MDN: Array.prototype.filter()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+# -phase-1-array-filter-method-lab
